@@ -1,0 +1,3 @@
+[submodule "ViteTest"]
+	path = ViteTest
+	url = https://github.com/sealleci/ViteTest.git
